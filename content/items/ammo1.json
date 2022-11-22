@@ -1,9 +1,9 @@
 {
 	"name": "pistol ammo"
 	"hardness": 4
-	"sprite": "e2"
+	"sprite": ""
 	"cost": 0
-	"color": "fb00ff"
+	"color": "DEC26DFF"
 	"explosiveness": 2
 	"flammability": 0.0005
 	"radioactivity": 0
