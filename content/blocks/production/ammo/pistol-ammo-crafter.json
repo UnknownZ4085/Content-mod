@@ -1,6 +1,6 @@
 {
   "type": "GenericCrafter",
-  "name": "Ammo crafter 1",
+  "name": "pistol ammo crafter",
   "description": "Make pistol ammo",
   "size": 1,
   "hasPower": true,
