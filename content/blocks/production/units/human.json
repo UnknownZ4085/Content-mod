@@ -1,15 +1,15 @@
 {
   "type": "GenericCrafter",
-  "name": "Nuke Crafter",
-  "description": "Crafts nuclear warheads using uraniumrods and graphite.",
+  "name": "Human crafter",
+  "description": "make human out of flesh and bones",
   "size": 2,
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "itemCapacity": 60,
+  "itemCapacity": 1,
   "craftTime": 600,
   "consumes": {
-    "power": 6,
+    "power": 12,
     "items": {
       "items": [
         {
