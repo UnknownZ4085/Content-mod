@@ -1,0 +1,12 @@
+{
+	"name": "glock"
+	"hardness": 7
+	"sprite": "glock"
+	"cost": 0
+	"color": "ffffff"
+	"explosiveness": 0
+	"flammability": 0
+	"radioactivity": 0
+	"charge": 0
+	"research": ""
+}
