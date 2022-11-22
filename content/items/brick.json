@@ -1,0 +1,12 @@
+{
+	"name": "brick"
+	"hardness": 6
+	"sprite": "sprite"
+	"cost": 1
+	"color": "color"
+	"explosiveness": 0
+	"flammability": 0
+	"radioactivity": 0
+	"charge": 0
+	"research": ""
+}
