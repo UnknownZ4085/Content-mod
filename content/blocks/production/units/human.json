@@ -1,0 +1,57 @@
+{
+  "type": "GenericCrafter",
+  "name": "Nuke Crafter",
+  "description": "Crafts nuclear warheads using uraniumrods and graphite.",
+  "size": 2,
+  "hasPower": true,
+  "hasItems": true,
+  "hasLiquids": false,
+  "itemCapacity": 60,
+  "craftTime": 600,
+  "consumes": {
+    "power": 6,
+    "items": {
+      "items": [
+        {
+          "item": "flesh",
+          "amount": 30
+        },
+        {
+          "item": "bone",
+          "amount": 20
+        },
+        {
+          "item": "plastic",
+          "amount": 45
+        },
+        {
+          "item": "steel"
+          "amount": 3
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "brick",
+      "amount": 10
+    },
+    {
+      "item": "wood",
+      "amount": 30
+    },
+    { 
+      "item": "plastic",
+      "amount": 45
+    },
+    {
+      "item": "steel",
+      "amount": 45
+    }
+  ],
+  "category": "crafting",
+  "research": "",
+  "outputItem": {
+    "item": "su1",
+    "amount": 1
+  }
+}
