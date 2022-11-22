@@ -6,7 +6,7 @@
   "hasPower": true,
   "hasItems": true,
   "hasLiquids": false,
-  "craftTime": 20,
+  "craftTime": 200,
   "craftEffect": "pulverizeRed",
   "drawer": {
     "type": "DrawMulti",
