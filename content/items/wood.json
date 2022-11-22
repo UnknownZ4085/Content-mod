@@ -1,0 +1,12 @@
+{
+	"name": "wood"
+	"hardness": 1.5
+	"sprite": "sprite"
+	"cost": 0.8
+	"color": "color"
+	"explosiveness": 0
+	"flammability": 3
+	"radioactivity": 0
+	"charge": 0
+	"research": ""
+}
