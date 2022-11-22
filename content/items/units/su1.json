@@ -1,0 +1,12 @@
+{
+	"name": "Human"
+	"hardness": 0
+	"sprite": "su1"
+	"cost": 0
+	"color": ""
+	"explosiveness": 0
+	"flammability": 0
+	"radioactivity": 0
+	"charge": 0
+	"research": ""
+}
