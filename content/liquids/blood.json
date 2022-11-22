@@ -1,0 +1,10 @@
+{
+"name": "[red]Blood"
+"temperature": 0.986,
+"flammability": 0.01,
+"viscosity": 0.8,
+"heatCapacity": 1,
+"explosiveness": 0,
+"color": "D13535FF",
+"research": ""
+}
