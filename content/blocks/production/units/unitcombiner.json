@@ -1,0 +1,46 @@
+{
+  "type": "GenericCrafter",
+  "name": "combiner(unit)1",
+  "description": "combine glock and human",
+  "size": 2,
+  "hasPower": false,
+  "hasItems": true,
+  "hasLiquids": false,
+  "itemCapacity": 1,
+  "craftTime": 0,
+  "consumes": {
+    "power": 0,
+    "items": {
+      "items": [
+        {
+          "item": "su1",
+          "amount": 1
+        },
+        {
+          "item": "glock",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  "requirements": [
+    {
+      "item": "plastic",
+      "amount": 10
+    },
+    {
+      "item": "brick",
+      "amount": 10
+    },
+    { 
+      "item": "steel",
+      "amount": 10
+    },
+  ],
+  "category": "crafting",
+  "research": "",
+  "outputItem": {
+    "item": "Jack",
+    "amount": 1
+  }
+}
