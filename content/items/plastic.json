@@ -1,0 +1,12 @@
+{
+	"name": "plastic"
+	"hardness": 1.4
+	"sprite": "sprite"
+	"cost": 0.3
+	"color": "color"
+	"explosiveness": 0
+	"flammability": 0.01
+	"radioactivity": 0
+	"charge": 0
+	"research": ""
+}
