@@ -1,0 +1,11 @@
+{    
+    "name": "BRICK wall"
+    "type": "Wall",
+    "health": 470,
+    "size": 1,
+    "requirements": [
+     "brick/30"
+    ],
+    "category": "defense",
+    "research": ""
+}
