@@ -3,7 +3,7 @@
 	"hardness": 0.7
 	"sprite": "sprite"
 	"cost": 0.1
-	"color": "color"
+	"color": "FFFFFFFF"
 	"explosiveness": 3.298
 	"flammability": 2.5
 	"radioactivity": 0
