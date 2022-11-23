@@ -1,0 +1,11 @@
+{    
+    "name": "wood wall"
+    "type": "Wall",
+    "health": 210,
+    "size": 1,
+    "requirements": [
+     "wood/30"
+    ],
+    "category": "defense",
+    "research": ""
+}
