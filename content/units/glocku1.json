@@ -9,8 +9,6 @@
 "range": 200
 "hover": false
 "weapons": [
-{
- "weapons": [
     {    
      "name": "glock"
      "mirror": false
@@ -49,4 +47,4 @@
 ]
 "abilities": [
 ]
-}
+
