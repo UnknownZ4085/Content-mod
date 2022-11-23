@@ -1,8 +1,10 @@
-"name": "jack"
+"name": "glock unit"
 "description": "A glock person"
 "type": "mech"
+"legs": 0
 "speed": 2
-"health": 150
+"health": 200
+"armor": 6
 "rotateSpeed": 20
 "range": 200
 "hover": false
