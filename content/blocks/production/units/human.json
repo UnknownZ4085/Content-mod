@@ -29,6 +29,8 @@
           "amount": 3
     }
         ],
+    }
+  }
   "requirements": [
     {
       "item": "brick",
@@ -53,5 +55,4 @@
     "item": "su1",
     "amount": 1
   }
-}
 }
