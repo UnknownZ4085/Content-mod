@@ -27,9 +27,9 @@
         {
           "item": "steel"
           "amount": 3
-      ]
     }
   },
+        ]
   "requirements": [
     {
       "item": "brick",
