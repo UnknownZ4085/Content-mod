@@ -14,7 +14,7 @@
      "mirror": false
       "rotate": false
       "range": 200
-      "x": 10
+      "x": 3
       "y": 3
       "shoot": {
         "type": "ShootAlternate",
@@ -25,7 +25,7 @@
       },
       
       //how long it will take until this weapon can shoot again
-      "reload": 1,
+      "reload": 5,
         
       //inaccuracy of the bullets spawned by this weapon in °
       "inaccuracy": 0,
