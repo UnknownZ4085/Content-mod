@@ -1,0 +1,8 @@
+{
+  "name": "Vault Wall",
+  "description": "A door protecting the vault",
+  "type": "Wall",
+  "health": 7000,
+  "size": 3,
+  "category": "defense",
+}
