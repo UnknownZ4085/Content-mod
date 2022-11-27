@@ -1,12 +1,13 @@
 {
         "name": "Overdriven Zap",
+        "sprite": "mm-zap",
         "description": "Don't Touch Wires"
         "speedMultiplier": 0.8,
         "reloadMultiplier": 0.9,
         "healthMultiplier": 0.999,
         "disarm": false
         "effectChance": 60,
-        "damage": 40,
+        "damage": 2,
         "transitionDamage": 100,
         "affinities": [ "shocked" ],
         "effect": {
