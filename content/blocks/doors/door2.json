@@ -1,0 +1,9 @@
+{
+  "type": "door",
+  "name": "Vault Door",
+  "description": "Door for the vault.",
+  "size": 3,
+  "health": 7000,
+  "category": "defense",
+  }
+}
