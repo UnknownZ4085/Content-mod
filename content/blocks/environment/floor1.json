@@ -1,10 +1,10 @@
 {
 "type": "Floor",
 "localizedName": "Bunker Entrance Floor 1",
-"speedMultiplier": 0.99,
+"speedMultiplier": 0.5,
 "variants": 0,
-"statusDuration": 60,
+"statusDuration": 1200,
 "isLiquid": "false",
 "albedo": 0.0,
-"status": "shocked",
+"status": "melting",
 }
