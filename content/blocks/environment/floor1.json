@@ -1,5 +1,6 @@
 {
 "type": "Floor",
+"category": "defense",
 "localizedName": "Bunker Entrance Floor",
 "speedMultiplier": 0.99,
 "variants": 0,
