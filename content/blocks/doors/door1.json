@@ -1,0 +1,9 @@
+{
+  "type": "AutoDoor",
+  "name": "Bunker Door",
+  "description": "A very heavy and big door.",
+  "category": "defense",
+  "health": 30000
+  "size": 5,
+  "research": ""
+}
