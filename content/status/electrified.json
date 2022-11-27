@@ -1,0 +1,30 @@
+{
+        "name": "electrified",
+        "description": "Don't Touch Wires"
+        "speedMultiplier": 0.8,
+        "reloadMultiplier": 0.,
+        "healthMultiplier": 5,
+        "dragMultiplier": 0,
+        "disarm": true
+        "effectChance": 100,
+        "damage": 1,
+        "transitionDamage": 20,
+        "affinities": [ "shocked", "unmoving" ],
+        "effect": {
+        "type": "status",
+        "effects": [
+        {
+        "type": "shocked",
+        "lifetime": 35,
+        "sizeFrom": 0,
+        "sizeTo": 10,
+        "sides": 4,
+        "strokeFrom": 10,
+        "strokeTo": 0,
+        "colorFrom": "68386CFF",
+        "colorTo": "68386CFF"
+        },
+        ]
+        }
+        "research": "cm-ancient-crystal"
+}
