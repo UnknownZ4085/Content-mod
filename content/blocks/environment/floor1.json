@@ -2,8 +2,8 @@
 "type": "Floor",
 "speedMultiplier": 0.99,
 "variants": 0,
-"statusDuration": 0,
+"statusDuration": 60,
 "isLiquid": "false",
 "albedo": 0.0,
-"status": "",
+"status": "shocked",
 }
