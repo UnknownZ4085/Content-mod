@@ -1,13 +1,13 @@
 {
-  name: HM,
-  displayName: THINGS MOD,
-  description: WIP
-  minGameVersion: 136,
+  name: mm,
+  displayName: ㅤ,
+  description: this mod adds a custom map and some content for the specific maps. [WIP]
+  minGameVersion: 140,
   author: 
     ''' 
     
    UnknownZ4085
     
     '''
-  version: 0.03
+  version: 0.01
 }
