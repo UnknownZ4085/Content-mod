@@ -1,6 +1,6 @@
 {
-        "name": "Overdriven Zap",
-        "sprite": "mm-zap",
+        "name": "Zapped",
+        "sprite": "zap",
         "description": "Don't Touch Wires"
         "speedMultiplier": 0.8,
         "reloadMultiplier": 0.9,
