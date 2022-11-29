@@ -4,5 +4,7 @@
   "description": "Door for the vault.",
   "size": 3,
   "health": 7000,
+  "insulated": true
+  "absorbLasers": true
   "category": "defense",
   }
