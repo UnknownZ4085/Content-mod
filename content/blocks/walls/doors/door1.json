@@ -3,6 +3,10 @@
   "name": "Bunker Door",
   "description": "A very heavy and big door.",
   "category": "defense",
+  "chanceReflect": 40
+  "deflect": true
+  "insulated": true
+  "absorbLasers": true
   "health": 30000
   "size": 4,
 }
