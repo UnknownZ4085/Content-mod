@@ -3,6 +3,10 @@
   "description": "P R O T E C T",
   "type": "Wall",
   "health": 30000,
+  "chanceReflect": 40
+  "deflect": true
+  "insulated": true
+  "absorbLasers": true
   "size": 4,
   "category": "defense",
 }
