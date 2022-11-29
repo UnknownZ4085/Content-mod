@@ -4,5 +4,7 @@
   "type": "Wall",
   "health": 7000,
   "size": 3,
+  "insulated": true
+  "absorbLasers": true
   "category": "defense",
 }
